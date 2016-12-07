@@ -1,4 +1,4 @@
-# personal-inspector
+# Personal-inspector 
 Personal setting for unity inspector
 
 
