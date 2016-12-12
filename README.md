@@ -6,8 +6,10 @@ Personal setting for unity inspector
 Copy and Paste the inspector folder into your project
 
 ## Personal setting
-1. Find the references of certain file 
-    Find who is use this script.
-2. Find the file location 
-3. Personal Scence Editor
-4. 
+1. Find the references of certain file  
+    Find who is use this script.    
+2. Find the file location   
+    Contain the absolute path
+3. Personal Scence Editor   
+    Make changing actions will clear
+4. More..
