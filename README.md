@@ -10,6 +10,8 @@ Copy and Paste the inspector folder into your project
     Find who is use this script.    
 2. Find the file location   
     Contain the absolute path
+    ![GitHub Logo](Findfilepath.PNG)
 3. Personal Scence Editor   
     Make changing actions will clear
+    ![GitHub Logo](SceneEditor.PNG)
 4. More..
