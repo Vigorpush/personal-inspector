@@ -9,9 +9,9 @@ Copy and Paste the inspector folder into your project
 1. Find the references of certain file  
     Find who is use this script.    
 2. Find the file location   
-    Contain the absolute path
+    Contain the absolute path   
     ![GitHub Logo](Findfilepath.PNG)
 3. Personal Scence Editor   
-    Make changing actions will clear
+    Make changing actions will clear    
     ![GitHub Logo](SceneEditor.PNG)
 4. More..
